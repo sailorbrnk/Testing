@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 2ddab1ecc8e070a4cbb69abb47d58d11
+timeCreated: 1483547465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bishop
+    100002: bishop_copy10
+    100004: bishop_copy15
+    100006: board
+    100008: board_copy20
+    100010: board_copy21
+    100012: //RootNode
+    100014: cylinder4_extract7
+    100016: king
+    100018: king_copy11
+    100020: king_copy16
+    100022: knight
+    100024: knight_copy12
+    100026: knight_copy17
+    100028: pawn
+    100030: pawn_copy13
+    100032: pawn_copy18
+    100034: queen
+    100036: queen_copy14
+    100038: queen_copy19
+    100040: rook_hi
+    100042: rook_med
+    400000: bishop
+    400002: bishop_copy10
+    400004: bishop_copy15
+    400006: board
+    400008: board_copy20
+    400010: board_copy21
+    400012: //RootNode
+    400014: cylinder4_extract7
+    400016: king
+    400018: king_copy11
+    400020: king_copy16
+    400022: knight
+    400024: knight_copy12
+    400026: knight_copy17
+    400028: pawn
+    400030: pawn_copy13
+    400032: pawn_copy18
+    400034: queen
+    400036: queen_copy14
+    400038: queen_copy19
+    400040: rook_hi
+    400042: rook_med
+    2300000: bishop
+    2300002: bishop_copy10
+    2300004: bishop_copy15
+    2300006: board
+    2300008: board_copy20
+    2300010: board_copy21
+    2300012: cylinder4_extract7
+    2300014: king
+    2300016: king_copy11
+    2300018: king_copy16
+    2300020: knight
+    2300022: knight_copy12
+    2300024: knight_copy17
+    2300026: pawn
+    2300028: pawn_copy13
+    2300030: pawn_copy18
+    2300032: queen
+    2300034: queen_copy14
+    2300036: queen_copy19
+    2300038: rook_hi
+    2300040: rook_med
+    3300000: bishop
+    3300002: bishop_copy10
+    3300004: bishop_copy15
+    3300006: board
+    3300008: board_copy20
+    3300010: board_copy21
+    3300012: cylinder4_extract7
+    3300014: king
+    3300016: king_copy11
+    3300018: king_copy16
+    3300020: knight
+    3300022: knight_copy12
+    3300024: knight_copy17
+    3300026: pawn
+    3300028: pawn_copy13
+    3300030: pawn_copy18
+    3300032: queen
+    3300034: queen_copy14
+    3300036: queen_copy19
+    3300038: rook_hi
+    3300040: rook_med
+    4300000: board_copy21
+    4300002: board_copy20
+    4300004: queen_copy19
+    4300006: pawn_copy18
+    4300008: knight_copy17
+    4300010: king_copy16
+    4300012: bishop_copy15
+    4300014: queen_copy14
+    4300016: pawn_copy13
+    4300018: knight_copy12
+    4300020: king_copy11
+    4300022: bishop_copy10
+    4300024: rook_hi
+    4300026: rook_med
+    4300028: cylinder4_extract7
+    4300030: queen
+    4300032: pawn
+    4300034: knight
+    4300036: king
+    4300038: bishop
+    4300040: board
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

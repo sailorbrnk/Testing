@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WKing
+  - WQueen
+  - WRook1
+  - WRook2
+  - WBishop1
+  - WBishop2
+  - WKnight1
+  - WKnight2
+  - WPawn1
+  - WPawn2
+  - WPawn3
+  - WPawn4
+  - WPawn5
+  - WPawn6
+  - WPawn7
+  - WPawn8
+  - BKing
+  - BQueen
+  - BRook1
+  - BRook2
+  - BBishop1
+  - BBishop2
+  - BKnight1
+  - BKnight2
+  - BPawn1
+  - BPawn2
+  - BPawn3
+  - BPawn4
+  - BPawn5
+  - BPawn6
+  - BPawn7
+  - BPawn8
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ChessPlane
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
